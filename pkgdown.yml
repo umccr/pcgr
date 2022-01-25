@@ -1,0 +1,12 @@
+pandoc: 2.17.0.1
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  faq: faq.html
+  installation: installation.html
+  running: running.html
+last_built: 2022-01-25T05:53Z
+urls:
+  reference: https://umccr.github.io/pcgr/reference
+  article: https://umccr.github.io/pcgr/articles
+
