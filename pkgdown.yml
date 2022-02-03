@@ -1,12 +1,16 @@
-pandoc: 2.17.0.1
+pandoc: 2.17.1.1
 pkgdown: 2.0.2
 pkgdown_sha: ~
 articles:
+  annotation_resources: annotation_resources.html
   faq: faq.html
+  input: input.html
   installation: installation.html
+  output: output.html
   running: running.html
-last_built: 2022-01-25T06:06Z
+  variant_classification: variant_classification.html
+last_built: 2022-02-03T08:16Z
 urls:
-  reference: https://umccr.github.io/pcgr/reference
-  article: https://umccr.github.io/pcgr/articles
+  reference: https://sigven.github.io/pcgr/reference
+  article: https://sigven.github.io/pcgr/articles
 
