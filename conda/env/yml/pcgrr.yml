@@ -1,7 +1,8 @@
 name: pcgrr
 
 channels:
-  - pcgr
+  - umccr
+  #- pcgr
   - conda-forge
   - bioconda
   - defaults
