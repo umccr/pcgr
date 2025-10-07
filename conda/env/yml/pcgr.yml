@@ -18,7 +18,7 @@ dependencies:
   - pybedtools
   - vcfanno
   - vt
-  - bioconda::vcf2maf-umccr ==1.6.21.20230511
+  - bioconda::vcf2maf ==1.6.22
   - bioconda::vcf2tsvpy ==0.6.1
   - yaml
   - urllib3 # oncokb-annotator
